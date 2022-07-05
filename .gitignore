@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/production/classes/
+/Minesweeper/task/out/test/classes/
